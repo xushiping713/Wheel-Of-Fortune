@@ -1,0 +1,20 @@
+The goal of Wheel of Fortune is to guess a particular phrase correctly. 
+All of the phrases come from the Wheel of Fortune Category Thing. 
+There are three levels of secret phrases, ‘EASY’, ‘MEDIUM’ and ‘HARD’. 
+At the beginning of the game, you should choose a level:
+ ‘EASY’ phrase, a ‘MEDIUM’ phrase, or a ‘HARD’ phrase. 
+The harder the level, the more letters in the phrase to be guessed. 
+During play each turn you click on ‘SPIN THAT WHEEL!!!’ to spin the wheel. 
+If you land on a dollar amount, you will guess a consonant. 
+If the puzzle contains the consonant you just guessed, it will be revealed. 
+You will receive the spun dollar amount times the instances that the letter appears on the board. 
+If the letter is not in the phrase nothing will happen.
+Instead of guessing a consonant, you may guess a vowel. 
+Vowels cost $25 regardless of how many are in the sentence. 
+If you choose to guess a vowel, the dollar amount wheel landed on does not matter.
+At any point you may guess the complete sentence. 
+If you guess the correct sentence, you will win $100 in addition to the money you have in your wallet; 
+however, if you guess incorrectly you lose the game and all of your money.
+Good Luck!!!
+
+
