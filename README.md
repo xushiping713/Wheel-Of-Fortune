@@ -1,0 +1,9 @@
+# Wheel-Of-Fortune
+
+WheelOfFortune.py is our main file. It contains three classes, Wheelie, StarterApp, and WheelOfFortuneApp. We also have a smiley.py file that contains a Smiley class that creates an animated object -- smiley faces, which will be displayed when the user wins.
+
+At the starting screen, user may click on ‘Start Game’ to start play the game, or click on ‘Instructions’ to receive game instructions, or ‘I’m not ready for this’ to quit the game.
+The goal of Wheel of Fortune is to guess a particular phrase correctly. All of the phrases come from the Wheel of Fortune Category Thing. There are three levels of secret phrases, ‘EASY’, ‘MEDIUM’ and ‘HARD’. 
+At the beginning of the game, user will draw a phrase depending on difficulty level. There are three buttons on the side labeled easy, medium, and hard. The harder the phrase drawn, the more letters in the phrase to be guessed. During play each turn, user clicks on ‘SPIN THAT WHEEL!!!’ to spin the wheel. Once user lands on a dollar amount, the user will guess a consonant. If the puzzle contains the consonant the user just guessed, it will be revealed. User will receive the spun dollar amount times the instances that the letter appears on the board. If the letter is not in the phrase nothing will happen. Instead of guessing a consonant, user may guess a vowel if there’s greater than or equal to $25 in user’s wallet. Vowels cost $25 regardless of how many are in the sentence. If user chooses to guess a vowel, the dollar amount wheel landed on does not matter.
+At any point during the game the user may guess the complete sentence. If user guesses the correct sentence, user will win $100 in addition to the money you have in your wallet. However, if user guesses incorrectly, the user loses the game and all of the money in the wallet.
+When the game ends, the user may choose to either start a new game or quit the game.
